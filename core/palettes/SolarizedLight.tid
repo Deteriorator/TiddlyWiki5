@@ -18,6 +18,14 @@ button-foreground: #586e75
 code-background: #eee8d5
 code-border: #93a1a1
 code-foreground: #586e75
+diff-delete-background: #dc322f
+diff-delete-foreground: #eee8d5
+diff-equal-background: inherit
+diff-equal-foreground: inherit
+diff-insert-background: #859900
+diff-insert-foreground: #eee8d5
+diff-invisible-background: #b58900
+diff-invisible-foreground: #eee8d5
 dirty-indicator: #dc322f
 download-background: #859900
 download-foreground: #eee8d5
@@ -34,6 +42,7 @@ external-link-background-visited: inherit
 external-link-foreground: #268bd2
 external-link-foreground-hover: inherit
 external-link-foreground-visited: #268bd2
+footnote-target-background: #eee8d5
 foreground: #657b83
 highlight-background: #ffff00
 highlight-foreground: #000000
